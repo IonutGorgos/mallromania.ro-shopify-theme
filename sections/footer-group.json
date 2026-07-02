@@ -196,10 +196,88 @@
                 "padding-inline-end": 0
               },
               "blocks": {}
+            },
+            "text_XRU9cH": {
+              "type": "text",
+              "name": "t:names.text",
+              "settings": {
+                "text": "<p>Produse de calitate, servicii excepționale</p><p>Nu rata ultimele oferte și detalii din magazin! Urmărește-ne pentru conținut fresh și util</p>",
+                "width": "100%",
+                "max_width": "normal",
+                "alignment": "left",
+                "type_preset": "rte",
+                "font": "var(--font-body--family)",
+                "font_size": "1rem",
+                "line_height": "normal",
+                "letter_spacing": "normal",
+                "case": "none",
+                "wrap": "pretty",
+                "background": false,
+                "background_color": "#00000026",
+                "corner_radius": 0,
+                "padding-block-start": 0,
+                "padding-block-end": 0,
+                "padding-inline-start": 0,
+                "padding-inline-end": 0
+              },
+              "blocks": {}
+            },
+            "text_FAQkQq": {
+              "type": "text",
+              "name": "t:names.text",
+              "settings": {
+                "text": "<p>MallRomania este operat de societatea:<br/><strong>SC ADRILIN2021 IMPEX SRL</strong><br/>Nr. ord. reg. com. / an: J2021000941407<br/>Cod unic de înregistrare (CUI): RO43596722<br/>Adresa: București Sectorul 2, Strada Titu Maiorescu Nr 4, Etaj 1, Ap 7<br/>Telefon: <a href=\"tel:0755045498\">0755045498</a><br/>Email: <a href=\"mailto:contact@mallromania.ro\">contact@mallromania.ro</a></p>",
+                "width": "100%",
+                "max_width": "normal",
+                "alignment": "left",
+                "type_preset": "rte",
+                "font": "var(--font-body--family)",
+                "font_size": "1rem",
+                "line_height": "normal",
+                "letter_spacing": "normal",
+                "case": "none",
+                "wrap": "pretty",
+                "background": false,
+                "background_color": "#00000026",
+                "corner_radius": 0,
+                "padding-block-start": 0,
+                "padding-block-end": 0,
+                "padding-inline-start": 0,
+                "padding-inline-end": 0
+              },
+              "blocks": {}
+            },
+            "text_9Qbq9T": {
+              "type": "text",
+              "name": "t:names.text",
+              "settings": {
+                "text": "<p><strong>Ora limită pentru procesarea comenzilor:</strong> 17:00 (EET – România)<br/><strong>Program de lucru:</strong> Luni – Vineri, 09:00 – 18:00 (EET – România)</p>",
+                "width": "fit-content",
+                "max_width": "normal",
+                "alignment": "left",
+                "type_preset": "rte",
+                "font": "var(--font-body--family)",
+                "font_size": "1rem",
+                "line_height": "normal",
+                "letter_spacing": "normal",
+                "case": "none",
+                "wrap": "pretty",
+                "background": false,
+                "background_color": "#00000026",
+                "corner_radius": 0,
+                "padding-block-start": 0,
+                "padding-block-end": 0,
+                "padding-inline-start": 0,
+                "padding-inline-end": 0
+              },
+              "blocks": {}
             }
           },
           "block_order": [
-            "text_8hQarc"
+            "text_8hQarc",
+            "text_XRU9cH",
+            "text_FAQkQq",
+            "text_9Qbq9T"
           ]
         },
         "group_aTqtXk": {

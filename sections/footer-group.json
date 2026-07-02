@@ -230,7 +230,7 @@
               "type": "text",
               "name": "t:names.text",
               "settings": {
-                "text": "<p>MallRomania este operat de societatea:<br/><strong>SC ADRILIN2021 IMPEX SRL</strong><br/>Nr. ord. reg. com. / an: J2021000941407<br/>Cod unic de înregistrare (CUI): RO43596722<br/>Adresa: București Sectorul 2, Strada Titu Maiorescu Nr 4, Etaj 1, Ap 7<br/>Telefon: <a href=\"tel:0755045498\">0755045498</a><br/>Email: <a href=\"mailto:contact@mallromania.ro\">contact@mallromania.ro</a></p>",
+                "text": "<p>MallRomania este operat de societatea:<br/><strong>SC ADRILIN2021 IMPEX SRL</strong><br/>Nr. ord. reg. com. / an: J40/941/2021<br/>Cod unic de înregistrare (CUI): 43596722<br/>Adresa: București Sectorul 2, Strada Titu Maiorescu Nr 4, Etaj 1, Ap 7<br/>Telefon: <a href=\"tel:0755045498\">0755045498</a><br/>Email: <a href=\"mailto:contact@mallromania.ro\">contact@mallromania.ro</a></p>",
                 "width": "100%",
                 "max_width": "normal",
                 "alignment": "left",
@@ -410,12 +410,27 @@
                 "padding-inline-end": 0
               },
               "blocks": {}
+            },
+            "anpc_t7rcKg": {
+              "type": "anpc",
+              "name": "ANPC",
+              "settings": {
+                "image_1": "shopify://shop_images/anpc_sal.png",
+                "image_1_link": "https://anpc.ro/ce-este-sal/",
+                "image_2": "shopify://shop_images/anpc_sol.png",
+                "image_2_link": "https://ec.europa.eu/consumers/odr/main/index.cfm?event=main.home2.show&lng=RO",
+                "spacing": 20,
+                "border_radius": 0,
+                "desktop_width_percent": 100
+              },
+              "blocks": {}
             }
           },
           "block_order": [
             "text_NAMaGc",
             "text_XcBXiw",
-            "email_signup_y6tU4h"
+            "email_signup_y6tU4h",
+            "anpc_t7rcKg"
           ]
         }
       },

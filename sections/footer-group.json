@@ -421,7 +421,7 @@
                 "image_2_link": "https://ec.europa.eu/consumers/odr/main/index.cfm?event=main.home2.show&lng=RO",
                 "spacing": 20,
                 "border_radius": 0,
-                "desktop_width_percent": 100
+                "desktop_width_percent": 75
               },
               "blocks": {}
             }
